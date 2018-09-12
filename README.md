@@ -3,7 +3,7 @@ Este projeto tem como premissa a criação de um ID unificado para os alunos
 
 ## Equipe
 
-A nossa equipe faz parte do departamento INOVA do CPS. Clique [aqui](Equipe.md) pra conhecê-los.
+A nossa equipe faz parte do departamento INOVA do CPS. Clique [aqui](EQUIPE.md) pra conhecê-los.
 
 ## Project Charter
 
