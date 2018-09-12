@@ -77,6 +77,10 @@ Git: https://github.com/Maurozac
 
 Git: https://github.com/Pedrofogolin
 
+### Ruben Pimenta
+
+Linked-in: https://br.linkedin.com/in/rupimenta
+
 ### Juliana Planck
 
 Git: https://github.com/julianaplanck
