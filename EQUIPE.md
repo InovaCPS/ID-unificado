@@ -67,7 +67,7 @@ Perfil do Git: https://github.com/danielrares1
 ![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
 
 
-### Laio Budaibes
+### Laio Budaibes (TI- CPS Luz)
 
 ![laio](https://user-images.githubusercontent.com/43144590/45495672-173aea00-b74a-11e8-8775-1b4d2f243460.png)
 
