@@ -60,7 +60,7 @@ Perfil do Git: https://github.com/EduardoSimao
 
 ### Daniel (Praia Grande)
 
-![daniel](https://user-images.githubusercontent.com/43144590/45425354-70821b00-b66f-11e8-8cbc-beffdfb7eeef.png)
+![daniel v2](https://user-images.githubusercontent.com/43144590/45499934-c7612080-b753-11e8-8429-3d3c5976f12b.png)
 
 ![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
 Perfil do Git: https://github.com/danielrares1
