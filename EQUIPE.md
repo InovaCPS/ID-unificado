@@ -18,7 +18,7 @@ Nossa equipe é composta pelas unidades do INOVA de Praia Grande e de São José
 
 ## Dev Team
 
-### Italo (Praia Grande)
+### Italo (Praia Grande) 
 
 ![italo](https://user-images.githubusercontent.com/43144590/45423774-aec90b80-b66a-11e8-9f1c-770b4bd18b60.png)
 
@@ -40,7 +40,7 @@ Perfil do Git: https://github.com/Gomes1610
 
 ### Renan (Praia Grande)
 
-[Foto]
+![image](https://user-images.githubusercontent.com/43144590/45498866-718b7900-b751-11e8-967b-33bd0a712443.png)
 
 ![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
 Perfil do Git: https://github.com/lolorenzetti
