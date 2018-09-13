@@ -40,7 +40,7 @@ Perfil do Git: https://github.com/Gomes1610
 
 ### Renan (Praia Grande)
 
-![image](https://user-images.githubusercontent.com/43144590/45498866-718b7900-b751-11e8-967b-33bd0a712443.png)
+ ![image](https://user-images.githubusercontent.com/43144590/45499007-ca5b1180-b751-11e8-97c6-6eeb7490e2d9.png)
 
 ![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
 Perfil do Git: https://github.com/lolorenzetti
