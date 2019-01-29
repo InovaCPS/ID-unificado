@@ -38,16 +38,6 @@ Perfil do Git: https://github.com/lolorenzetti
 
 
 
-### Eduardo (Praia Grande)
-
-![eduardo v2](https://user-images.githubusercontent.com/43144590/45499822-849f4880-b753-11e8-818d-7dbd143296e4.png)
-
-![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
-Perfil do Git: https://github.com/EduardoSimao
-![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
-
-
-
 ### Daniel (Praia Grande)
 
 ![daniel v2](https://user-images.githubusercontent.com/43144590/45499934-c7612080-b753-11e8-8429-3d3c5976f12b.png)
@@ -84,6 +74,6 @@ Linked-in: https://br.linkedin.com/in/rupimenta
 
 Git: https://github.com/julianaplanck
 
-### Ulisses Gandini
+### Eduardo Simão
 
-Git: https://github.com/iceoffire
+Git: https://github.com/EduardoSimao
